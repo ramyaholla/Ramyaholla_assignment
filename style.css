@@ -1,0 +1,40 @@
+body{
+    margin:0px auto;
+    width:100%;
+    
+}
+body {
+  background-color: aquamarine;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+.menu {
+  overflow: hidden;
+  background-color: white;
+}
+.menu a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: 17px;
+}
+/*-------------login and sign-up--------------*/
+.main
+   {
+    width:600px;
+    height:260px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:5px; 
+    padding-left:10px; 
+    margin-top:80px;
+    border-top:3px double white;
+    border-bottom:55px double white;
+    background-color: white;
+    text-align: center;
+   }
